@@ -1,4 +1,4 @@
-[![App Platorm](http://mxsrvapps/resources/LOGO-GT2.png)](https://generaltransmissions.com/en/)
+[![LOGO-GT](http://mxsrvapps/resources/LOGO-GT2.png)](https://generaltransmissions.com/en/)
 
 # Documentación De GT.Trace.Labels.WpfPrintingClient.Service
 
