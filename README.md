@@ -1,3 +1,4 @@
+[![App Platorm](https://www.avenirup.fr/wp-content/uploads/2019/12/LOGO-GT.png)](https://generaltransmissions.com/en/)
 
 # Documentación De GT.Trace.Labels.WpfPrintingClient.Service
 
