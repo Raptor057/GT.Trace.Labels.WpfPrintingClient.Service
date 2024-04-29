@@ -57,7 +57,7 @@ None
 
 
 - #### Ubicacion de publicacion.
-- [MXSRVDEV](\\mxsrvdev\Installers\GT_Trace_Labels_WpfPrintingClient_Service)
+- \\mxsrvdev\Installers\GT_Trace_Labels_WpfPrintingClient_Service
 
 #### Desabollador Original de este proyecto
 - [Raptor057 (github.com)](https://github.com/Raptor057)
