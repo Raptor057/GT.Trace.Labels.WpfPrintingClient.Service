@@ -55,6 +55,10 @@ None
 #### -Repositorio Remoto
 - Pendiente
 
+
+- #### Ubicacion de publicacion.
+- [MXSRVDEV](\\mxsrvdev\Installers\GT_Trace_Labels_WpfPrintingClient_Service)
+
 #### Desabollador Original de este proyecto
 - [Raptor057 (github.com)](https://github.com/Raptor057)
 - [LinkedIn](https://www.linkedin.com/in/rogelio-arri/)
